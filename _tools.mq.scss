@@ -1,0 +1,19 @@
+/*------------------------------------*\
+  #SASS-MQ
+\*------------------------------------*/
+
+/**
+ * sass-mq wrapper for the framework.
+ *
+ * https://github.com/sass-mq/sass-mq
+ */
+
+@import "~sass-mq";
+
+
+
+
+
+// tell the rest of framework that we have this module
+
+$wocss-tools-mq: true;

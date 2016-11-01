@@ -1,0 +1,25 @@
+{
+  "name": "wocss-tools-mq",
+  "version": "1.0.0",
+  "description": "sass-mq wrapper",
+  "main": "_tools.mq.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wocss/tools.mq.git"
+  },
+  "keywords": [
+    "bemit",
+    "itcss",
+    "scss",
+    "wocss"
+  ],
+  "author": "Gean Carlos <gean.marroquin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wocss/tools.mq/issues"
+  },
+  "homepage": "https://github.com/wocss/tools.mq#readme",
+  "dependencies": {
+    "sass-mq": "^3.2.9"
+  }
+}
