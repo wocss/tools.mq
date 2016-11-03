@@ -1,4 +1,4 @@
-# Mq
+# MQ
 
 > Tools
 
@@ -18,4 +18,9 @@ With a tool like [webpack](https://webpack.github.io/) you can import this modul
 @import '~wocss-tools-mq';
 ```
 
-## [Mixin doc](https://github.com/sass-mq/sass-mq#how-to-use-it)
+### [Mixin doc](https://github.com/sass-mq/sass-mq#how-to-use-it)
+
+
+## Dependencies
+
+* [wocss-settings-breakpoints](https://github.com/wocss/settings.breakpoints)

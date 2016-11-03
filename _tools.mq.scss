@@ -1,3 +1,16 @@
+// check dependencies
+
+$wocss-settings-breakpoints: false !default;
+
+
+@if ($wocss-settings-breakpoints == false) {
+  @error "[wocss-tools-mq] Have you included the wocss-settings-breakpoints module?"
+};
+
+
+
+
+
 /*------------------------------------*\
   #SASS-MQ
 \*------------------------------------*/

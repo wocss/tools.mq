@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/wocss/tools.mq#readme",
   "dependencies": {
-    "sass-mq": "^3.2.9"
+    "sass-mq": "^3.2.9",
+    "wocss-settings-breakpoints": "^2.0.2"
   }
 }
